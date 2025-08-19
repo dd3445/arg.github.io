@@ -117,7 +117,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 body {
     font-smooth: never;
     -webkit-font-smoothing: none;
-	text-rendering: optimizeSpeed important;
+	text-rendering: optimizeSpeed !important;
 }
 
 
